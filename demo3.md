@@ -40,3 +40,7 @@ task list
 - [x] 选项1  
 - [ ] 选项2  
 - [x] 选项3  
+
+表情符号：  
+emoji  
+:snake:
